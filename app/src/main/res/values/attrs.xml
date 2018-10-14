@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BannerViewArray">
+        <attr name="startAndclose" format="boolean"></attr>
+        <attr name="startTime" format="integer"></attr>
+    </declare-styleable>
+</resources>
